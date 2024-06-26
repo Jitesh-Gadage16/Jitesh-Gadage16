@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Jitya16" target="blank"><img src="https://img.shields.io/twitter/follow/Jitesh_Gadage?logo=twitter&style=for-the-badge" alt="Jitesh Gadage" /></a> </p>
 
-- 🔭 I’m currently working as a SDE-1 at <img  src="https://cdn.playerzpot.com/images/playerzpot-small-logo.png" alt="coding" width="150" />
+- 🔭 I’m currently working as a SDE-1 at <b>Playerzpot<b>
 
 - 🌱 I’m currently learning **MERN stack**
 

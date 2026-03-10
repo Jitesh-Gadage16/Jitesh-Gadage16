@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/Jitya16"><img src="https://img.shields.io/twitter/follow/Jitya16?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter"/></a>
+  <!-- <a href="https://twitter.com/Jitya16"><img src="https://img.shields.io/twitter/follow/Jitya16?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter"/></a> -->
   <a href="https://www.linkedin.com/in/jitesh-gadage-b610261b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
-  <a href="https://jitesh-gadage.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2D7E5E?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Portfolio"/></a>
-  <a href="mailto:jgadage@stevens.edu"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
+  <a href="https://jiteshgadage.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2D7E5E?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Portfolio"/></a>
+  <a href="mailto:gadagejitesh16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Jitesh-Gadage16&style=for-the-badge&color=2D7E5E&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
@@ -22,7 +22,7 @@
 name        : Jitesh Gadage
 location    : New Jersey, USA 🇺🇸
 education   : M.S. in Computer Science @ Stevens Institute of Technology (2024–2026)
-current_role: Frontend Software Engineer Intern @ FiPet
+current_role: Frontend Software Engineer Intern @ FiPet 
 experience  : 3+ years of full-stack software engineering
 open_to     : Full-time SWE roles | Collaborations | Open Source
 ```
@@ -33,7 +33,7 @@ open_to     : Full-time SWE roles | Collaborations | Open Source
 - 🎯 Interests: **Real-time systems, AI/ML applications, Clean Architecture, Gaming, Cricket**
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, REST APIs, WebSockets**
 - 📫 Reach me at **jgadage@stevens.edu**
-- 📄 Portfolio: [jitesh-gadage.netlify.app](https://jitesh-gadage.netlify.app/)
+- 📄 Portfolio: [jiteshgadage.com](https://jiteshgadage.com/)
 
 ---
 
@@ -120,15 +120,6 @@ open_to     : Full-time SWE roles | Collaborations | Open Source
 
 > 🕹️ **Gaming** &nbsp;|&nbsp; 🏏 **Cricket** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; ♿ **Web Accessibility (WCAG)** &nbsp;|&nbsp; 🤖 **AI/ML Applications** &nbsp;|&nbsp; 🏗️ **Clean Architecture & System Design**
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔍 [**FraudLens AI**](https://github.com/Jitesh-Gadage16) | Explainable fraud detection combining 6 image forensics signals + AI-text PDF detection | Python, ML, WCAG UI |
-| 🏥 [**CareConnect**](https://github.com/Jitesh-Gadage16) | Real-time caregiver collaboration platform with Socket.IO & role-based access | React, Node.js, Firebase, AWS S3 |
-| 📅 [**Telemedicine Shift Optimizer**](https://github.com/Jitesh-Gadage16) | Full-stack scheduling system with OR-Tools CP-SAT optimization & Holt-Winters forecasting | React, Express, Flask, Python |
 
 ---
 
@@ -169,19 +160,19 @@ open_to     : Full-time SWE roles | Collaborations | Open Source
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/Jitya16" target="_blank">
+  <!-- <a href="https://twitter.com/Jitya16" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/jitesh-gadage-b610261b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gadage_jitesh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://jitesh-gadage.netlify.app/" target="_blank">
+  <a href="https://jiteshgadage.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2D7E5E?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="mailto:jgadage@stevens.edu" target="_blank">
+  <a href="mailto:gadagejitesh16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
